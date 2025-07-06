@@ -302,8 +302,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autores
 
-- **Equipo de Big Data Engineering**
-- **Fintech Analytics Project**
+- **Federico Abancens, Matías Alberto y Marcos Alcala**
 
 ---
 
